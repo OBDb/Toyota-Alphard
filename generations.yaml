@@ -1,0 +1,38 @@
+references:
+  - "https://en.wikipedia.org/wiki/Toyota_Alphard"
+
+generations:
+  - name: "First Generation (AH10)"
+    start_year: 2002
+    end_year: 2008
+    description: "The first-generation Alphard was launched by Toyota on 22 May 2002. Developed under the lead of chief engineer Hideyuki Iwata, it is based on the second-generation Previa/Estima. Available with 2.4L and 3.0L petrol engines, plus a hybrid option introduced in MY 2003. The model features optional electric-powered tailgate and roll-down rear side windows. Refreshed in April 2005 with updated front grille, bumper, headlamps, and rear combination lamps."
+
+  - name: "First Generation (AH10) Facelift"
+    start_year: 2005
+    end_year: 2008
+    description: "Facelifted version of the first-generation Alphard introduced in April 2005. The 3.0L model received a 5-speed automatic transmission replacing the 4-speed unit. Royal Lounge version introduced in 2006 as a more upmarket four-seater variant."
+
+  - name: "Second Generation (AH20)"
+    start_year: 2008
+    end_year: 2011
+    description: "Second-generation Alphard launched in May 2008. Developed under chief engineer Yuzo Nakagoshi, it shares design cues with the first generation. Available with 2.4L (ANH20/25), 3.5L (GGH20/25) petrol engines, and 2.4L hybrid (ATH20). Twin model Vellfire introduced as successor to Alphard V, sold through Netz Store dealership chain."
+
+  - name: "Second Generation (AH20) Facelift"
+    start_year: 2011
+    end_year: 2015
+    description: "Facelifted second-generation Alphard announced September 27, 2011 and released November 1, 2011. Hybrid version reintroduced with THS2 system including Eco Mode and EV mode. Styling updates across all models with improved interior trim materials and Nanoe air purifiers available."
+
+  - name: "Third Generation (AH30)"
+    start_year: 2015
+    end_year: 2018
+    description: "Third-generation Alphard released January 26, 2015 on the Toyota New MC platform. Features completely redesigned exterior with new 2.5L 2AR-FE petrol and 2.5L 2AR-FXE hybrid engines, plus carryover 3.5L 2GR-FE V6. New double wishbone rear suspension replaces torsion beam setup. Executive Lounge grade added as top-of-line variant."
+
+  - name: "Third Generation (AH30) Facelift"
+    start_year: 2018
+    end_year: 2023
+    description: "Facelifted third-generation Alphard unveiled December 25, 2017 and released January 8, 2018. Updated 2GR-FKS V6 engine replaces the 2GR-FE. New Direct-Shift 8-speed automatic introduced for V6 variants. Toyota Safety Sense 2 becomes standard across all variants. Production ended in June 2022."
+
+  - name: "Fourth Generation (AH40)"
+    start_year: 2023
+    end_year: null
+    description: "Fourth-generation Alphard released June 21, 2023 on the TNGA-K platform. Features improved rigidity with straight rockers and V-shaped rear brace, plus MacPherson struts front and updated double wishbone rear suspension. Insignia moved to front door window frames. New 2.5L A25A-FXS hybrid and 2.4L T24A-FTS turbo engines available alongside carryover 2.5L 2AR-FE petrol."
